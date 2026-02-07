@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-## <div align="center">Olá, me chamo Daniel Leão 🐉</div>
+## <div align="center">Olá, me chamo Daniel Leão 🐉!</div>
 <div align="center">Sou Cientista de Dados 💻📈</div>
 
 
